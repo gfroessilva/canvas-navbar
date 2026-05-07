@@ -131,3 +131,7 @@ Example:
 ```powershell
 python -m unittest discover -s tests -v
 ```
+
+## License
+
+MIT
