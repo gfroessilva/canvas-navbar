@@ -20,7 +20,7 @@ By default, the tool uses all published pages found inside published modules. Yo
 ## Installation
 
 ```powershell
-git clone https://github.com/<your-user>/canvas-navbar.git
+git clone https://github.com/gfroessilva/canvas-navbar.git
 cd canvas-navbar
 python -m pip install -e .
 ```
